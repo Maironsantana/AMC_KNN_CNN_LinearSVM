@@ -1,0 +1,8 @@
+.venv
+.venv-gpu
+
+outputs
+data
+
+AMC_resultados.zip
+
